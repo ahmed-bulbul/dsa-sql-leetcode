@@ -4,7 +4,7 @@ public class Strings {
 
     public static void main(String[] args) {
         //String concat
-        String str = "Hello" + " -  World";
+        String str = "Hello" + "   World";
         System.out.println(str);
         String firstName = "BUlbul";
         String lastName = "Ahmed";
