@@ -1,5 +1,21 @@
 # dsa-sql-leetcode
 
+==============Arrays-01 (20-05-23 -- 23-05-23 ) ========================== </br>
+Topics : </br>
+Basic Array Operation, Bubble sort, Insertion Sort, Quick Sort, Merge Sort 
+Video Link For Java - https://www.youtube.com/watch?v=NTHVTY6w2Co&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&index=10 </br>
+https://www.youtube.com/watch?v=18Zt5I4S45o&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&index=11 </br>
+
+Python - https://www.youtube.com/watch?v=Mshvl3yOejU </br>
+Sorting Video Python - https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq </br>
+
+========================Problems ======================= </br>
+1. https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1 </br>
+2. https://practice.geeksforgeeks.org/problems/reverse-a-string/1 </br>
+3. https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 </br>
+4. https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1 </br>
+5. https://www.geeksforgeeks.org/quick-sort/  (Optional) if possible then try </br>
+
 =============== String(19-05-2023) =================================== </br>
 String concat </br>
 String reverse </br>
