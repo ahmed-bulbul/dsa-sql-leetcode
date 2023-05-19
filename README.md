@@ -2,7 +2,7 @@
 
 ==============Arrays-01 (20-05-23 -- 23-05-23 ) ========================== </br>
 Topics : </br>
-Basic Array Operation, Bubble sort, Insertion Sort, Quick Sort, Merge Sort 
+Basic Array Operation, Bubble sort, Insertion Sort, Quick Sort, Merge Sort  </br>
 Video Link For Java - https://www.youtube.com/watch?v=NTHVTY6w2Co&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&index=10 </br>
 https://www.youtube.com/watch?v=18Zt5I4S45o&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&index=11 </br>
 
