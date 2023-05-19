@@ -41,4 +41,6 @@ https://practice.geeksforgeeks.org/problems/reverse-a-string/1   </br>
 Bulbul --- Done ✓ </br>
 ![image](https://github.com/ahmed-bulbul/dsa-sql-leetcode/assets/70557643/ccee3e4a-273c-4681-8edc-1f5e5c695d9d) </br>
 
-Farhana --- Not Completed x
+Farhana --- Done ✓ </br>
+![image](https://github.com/ahmed-bulbul/dsa-sql-leetcode/assets/70557643/ac8250c5-aa06-4b50-837c-a452f5ec10f2)
+
