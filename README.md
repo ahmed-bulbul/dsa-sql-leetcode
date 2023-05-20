@@ -16,6 +16,12 @@ Sorting Video Python - https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XI
 4. https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1 </br>
 5. https://www.geeksforgeeks.org/quick-sort/  (Optional) if possible then try </br>
 
+===============Sumission================</br>
+Farahan - Not Comoleted</br>
+Bulbul - Not Compelted</br>
+
+</br></br></br></br></br></br>
+
 =============== String(19-05-2023) =================================== </br>
 String concat </br>
 String reverse </br>
