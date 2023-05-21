@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=18Zt5I4S45o&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32k
 Python - https://www.youtube.com/watch?v=Mshvl3yOejU </br>
 Sorting Video Python - https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq </br>
 
-========================Problems ======================= </br>
+-----------------------------Problems------------------------- </br>
 1. https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1 </br>
 2. https://practice.geeksforgeeks.org/problems/reverse-a-string/1 </br>
 3. https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 </br>
@@ -19,7 +19,7 @@ Sorting Video Python - https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XI
 ------------------------------------------------------------------------------------ </br>
 Insertion Sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1 </br>
 
-===============Sumission================</br>
+--------------------Sumission------------------</br>
 Farahan - Not Comoleted</br>
 Bulbul - Not Compelted</br>
 
