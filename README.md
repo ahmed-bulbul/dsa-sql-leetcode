@@ -16,6 +16,9 @@ Sorting Video Python - https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XI
 4. https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1 </br>
 5. https://www.geeksforgeeks.org/quick-sort/  (Optional) if possible then try </br>
 
+------------------------------------------------------------------------------------ </br>
+Insertion Sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1 </br>
+
 ===============Sumission================</br>
 Farahan - Not Comoleted</br>
 Bulbul - Not Compelted</br>
