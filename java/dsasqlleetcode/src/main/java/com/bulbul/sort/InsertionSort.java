@@ -1,9 +1,9 @@
-package com.bulbul.array;
+package com.bulbul.sort;
 
-public class InsertionArray {
+public class InsertionSort {
 
     public static void main(String[] args) {
-        InsertionArray insertionArray = new InsertionArray();
+        InsertionSort insertionArray = new InsertionSort();
         int[] arr = {1, 14, 18, 24, 38, 40 ,43 ,14 ,40 ,1, 54};
         insertionArray.sort(arr);
         insertionArray.print(arr);
