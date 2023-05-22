@@ -9,21 +9,25 @@
 #     print("Not Palindrom")        
 # print("\n")
 
-s=input()
-l = len(s)
-# bool = False
-cnt=0
-for i in range(0, l-1):
-    # indx = abs(i-(l-1))
-    if s[i]==(s[(l-1)-i]):
-        cnt=cnt+1
-        print("Inside:", cnt)
-    else:
-        cnt=0
+# s=input()
+# l = len(s)
+# # bool = False
+# cnt=0
+# for i in range(0, l-1):
+#     # indx = abs(i-(l-1))
+#     if s[i]==(s[(l-1)-i]):
+#         cnt=cnt+1
+#         print("Inside:", cnt)
+#     else:
+#         cnt=0
 
-print(cnt)        
-if(cnt>0):
-    print("Yes")
-else:
-    print("NO")    
+# print(cnt)        
+# if(cnt>0):
+#     print("Yes")
+# else:
+#     print("NO")    
 
+s = input()
+l = []
+l = list(s)
+print(l)

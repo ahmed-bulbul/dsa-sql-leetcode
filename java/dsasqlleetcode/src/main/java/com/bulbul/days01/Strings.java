@@ -1,4 +1,4 @@
-package com.bulbul;
+package com.bulbul.days01;
 
 public class Strings {
 
@@ -22,6 +22,19 @@ public class Strings {
             rev+=fullName.charAt(i);
         }
         System.out.println(rev);
+        boolean t = isPalindrome("madame");
+        System.out.println(t);
+
+    }
+
+    public static boolean isPalindrome(String str){
+        int mid = str.length()/2;
+        int i,j;
+        for( i=0, j=str.length()-1;i<mid ;j--,i++){
+            if(str.charAt(i)!= str.charAt(j))
+                return false;
+        }
+        return true;
 
     }
 }
