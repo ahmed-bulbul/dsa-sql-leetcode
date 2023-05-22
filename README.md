@@ -20,6 +20,9 @@ Sorting Video Python - https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XI
 Insertion Sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1 </br>
 
 --------------------Sumission------------------</br>
+5. Quick Sort
+![image](https://github.com/ahmed-bulbul/dsa-sql-leetcode/assets/116268132/1bf9467c-3952-4139-84e4-0a370b536174) </br>
+
 Farahan - Not Comoleted</br>
 Bulbul - Not Compelted</br>
 
