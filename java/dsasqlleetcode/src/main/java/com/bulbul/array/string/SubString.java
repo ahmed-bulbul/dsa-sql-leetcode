@@ -1,4 +1,4 @@
-package com.bulbul.string;
+package com.bulbul.array.string;
 
 public class SubString {
 
