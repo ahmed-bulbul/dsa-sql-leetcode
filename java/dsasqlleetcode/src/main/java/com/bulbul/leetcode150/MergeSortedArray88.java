@@ -12,7 +12,6 @@ public class MergeSortedArray88 {
 
 //        mergeSortedArray(nums1,m,nums2,n);
         mergeSortedArray2(nums1,m,nums2,n);
-
         printArray(nums1);
     }
 
