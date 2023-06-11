@@ -1,7 +1,7 @@
 # dsa-sql-leetcode
 
 ===================Leetcode Top 150======================</br>
-88. Merge Sorted Array (Day01)
+88. Merge Sorted Array (Day01)-- <span style="color:green">Easy</span>
 
 Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
 Output: [1,2,2,3,5,6]
@@ -30,19 +30,12 @@ public void merge(int[] nums1, int m, int[] nums2, int n) {
 
 Another approach
 ````
-private static void mergeSortedArray(int[] nums1, int m, int[] nums2, int n) {
+  private static void mergeSortedArray2(int[] nums1, int m, int[] nums2, int n) {
 
-        int i=m-1;
-        int j=n-1;
-        int k=m+n-1;
-
-        while (j>=0){
-            if(i>=0 && nums1[i] > nums2[j]){
-                nums1[k--] = nums1[i--];
-            }else{
-                nums1[k--] = nums2[j--];
-            }
+        for(int i=0;i<n;i++){
+            nums1[m+i] = nums2[i];
         }
+        Arrays.sort(nums1);
     }
 ````
 
@@ -71,6 +64,9 @@ Sorting Video Python - https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XI
 Insertion Sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1 </br>
 
 --------------------Sumission------------------</br>
+5. Quick Sort
+![image](https://github.com/ahmed-bulbul/dsa-sql-leetcode/assets/116268132/1bf9467c-3952-4139-84e4-0a370b536174) </br>
+
 Farahan - Not Comoleted</br>
 Bulbul - Not Compelted</br>
 
