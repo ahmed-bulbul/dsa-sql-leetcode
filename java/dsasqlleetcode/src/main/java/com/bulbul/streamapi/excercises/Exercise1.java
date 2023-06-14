@@ -11,6 +11,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+// Find the number of movies of each director
 public class Exercise1 {
 
     private static final MovieService movieService = InMemoryMovieService.getInstance();

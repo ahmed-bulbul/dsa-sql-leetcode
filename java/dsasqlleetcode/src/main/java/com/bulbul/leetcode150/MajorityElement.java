@@ -1,6 +1,5 @@
 package com.bulbul.leetcode150;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -32,6 +31,7 @@ public class MajorityElement {
                 majorityElement =m.getKey();
             }
         }
+        System.out.println(max);
         return majorityElement ;
 
     }
