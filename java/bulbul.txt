@@ -1,1 +1,5 @@
 Welcome bulbul....
+
+part 2 : https://github.com/deepcloudlabs/stream-api-exercises-part2
+
+part 3: https://github.com/deepcloudlabs/stream-api-exercises-part3
