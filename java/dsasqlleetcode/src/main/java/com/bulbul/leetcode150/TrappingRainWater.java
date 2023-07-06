@@ -7,6 +7,8 @@ public class TrappingRainWater {
         int[] height = {3,1,2,4,0,1,3,2};
         int res = trap(height);
         System.out.println(res);
+
+
     }
 
     private static int trap(int[] height) {
