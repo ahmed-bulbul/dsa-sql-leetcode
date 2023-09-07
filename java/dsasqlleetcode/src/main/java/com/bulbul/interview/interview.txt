@@ -1,0 +1,4 @@
+1. Difference between comparing String using == and .equals() method in Java?
+     == operator compares reference or memory location of objects in a heap, whether they point to the same location or not.
+     .equals() method for content comparison.
+
